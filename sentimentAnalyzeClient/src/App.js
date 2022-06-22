@@ -3,7 +3,7 @@ import './App.css';
 import EmotionTable from './EmotionTable.js';
 import React from 'react';
 
-//
+///
 
 class App extends React.Component {
   /*
